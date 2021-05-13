@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Sapiens
+- The Master Algortithm
+- Shiva Trilogy
